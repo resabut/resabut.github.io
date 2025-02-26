@@ -1,3 +1,7 @@
+---
+layout: default
+title: Sequence Data
+---
 # Sequence 2
 
 > **Note:** DNA sequence fragment
