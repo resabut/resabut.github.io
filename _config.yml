@@ -1,6 +1,6 @@
-title: My GitHub Page
+title: "Results repository"
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my GitHub page.
+  Here we keep the results.
 baseurl: "" # the subpath of your site, e.g. /blog
 header_pages:
   - CSILund_sequencing.md
